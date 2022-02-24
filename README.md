@@ -2,7 +2,7 @@
 
 ---
 
-* Spring boot 3.0.0
+* Spring boot 2.7.0
 * JAVA 11
 * Kotlin 1.6.0
 
